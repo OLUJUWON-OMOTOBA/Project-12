@@ -1,3 +1,4 @@
+### Project Overview
 The "[Titanic Survival ](https://github.com/OLUJUWON-OMOTOBA/Project-12/blob/main/Titanic%20survival%20(1).pbix)" Power BI project was designed to provide a detailed and visualized overview of key metrics related to the survival of passengers on the Titanic. This project involved collecting, analyzing, and visualizing historical data related to passenger demographics, class, port of embarkation, and survival status. Here's an overview of the key components and features included in the "Titanic Survival Analytics" Power BI project:
 
 1. **Data Sources:**
